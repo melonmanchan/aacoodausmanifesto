@@ -16,7 +16,8 @@
     "url": "https://github.com/melonmanchan/aacoodausmanifesto/issues"
   },
   "homepage": "https://github.com/melonmanchan/aacoodausmanifesto#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "live-server": "0.9.2"
   }
 }
